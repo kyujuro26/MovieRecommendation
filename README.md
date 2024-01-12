@@ -1,1 +1,1 @@
-# MovieRecommendation
+Content-Based Movie Recommender was created as an ML model integrated with FLASK to recommend movies. Designed to recommend movies based on individual genre preferences in terms of movie names by employing text vectorization and stemming techniques. Developed this proof of concept (POC) as an immersive learning experience to delve deeper into the underlying concepts.
